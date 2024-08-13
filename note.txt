@@ -1,0 +1,2 @@
+setelah mengambil dari repo
+harap lakukan terlebih dahulu "flutter pub get"
